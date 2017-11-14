@@ -10,6 +10,7 @@ public class Strng
 		System.out.println("abc".charAt(0));
 		System.out.println("abc".indexOf('c'));
 		System.out.println("hello");
+		System.out.println("mounika");
 	}
 
 }
